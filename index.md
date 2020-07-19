@@ -1,8 +1,8 @@
 # Welcome to the documentation of DozBot!
 
-If you want to setup DozBot then please [click me](https://sirdoz.github.io/dozbot_help)!
+If you want to setup DozBot then please [click me](https://sirdoz.github.io/dozbot_setup)!
 
-If you are looking for the help page of DozBot then [click me](https://sirdoz.github.io/dozbot_setup)!
+If you are looking for the help page of DozBot then [click me](https://sirdoz.github.io/dozbot_help)!
 
 If you have suggestions then please join my [Discord server](https://discord.gg/KryvXVz)!
 
